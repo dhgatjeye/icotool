@@ -2,6 +2,10 @@
 
 Convert PNG or ICO images into a multi-size `.ico` file with optional rounded corners and logo scaling.
 
+## Community
+
+Join our Discord community: https://discord.gg/uZsCCdPyF3
+
 ## Features
 
 - Accepts `.png` or `.ico` input
