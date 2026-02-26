@@ -1,0 +1,8 @@
+[project]
+name = "icotool"
+version = "0.1.0"
+description = "A tool for working with ICO files."
+requires-python = ">=3.10"
+dependencies = [
+    "pillow>=12.1.1",
+]
